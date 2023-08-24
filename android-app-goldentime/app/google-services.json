@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594434271401",
+    "project_id": "goldentime1-75942",
+    "storage_bucket": "goldentime1-75942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594434271401:android:c2aea5d5538a255f12e1b8",
+        "android_client_info": {
+          "package_name": "com.example.golden_time1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594434271401-ae62vjodprrte8glb3toq4thj6nn6nhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCRRAiRgAVQgjcogbvVjZePIMSkph_jXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594434271401-ae62vjodprrte8glb3toq4thj6nn6nhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
